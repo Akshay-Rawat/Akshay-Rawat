@@ -48,14 +48,6 @@
 
 ---
 
-### 🔥 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-Rawat&theme=react-dark&hide_border=true" width="95%"/>
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
