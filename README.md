@@ -73,7 +73,7 @@
 ---
 
 ### ✨ Quote of the Day
-<p align="center"><i>"Simplicity is the soul of efficiency." – Austin Freeman</i></p>
+<p align="center"><i>"Simplicity is the soul of efficiency."</i></p>
 
 ---
 
