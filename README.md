@@ -3,7 +3,7 @@
   Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />, I'm Akshay Rawat
 </h1>
 <h3 align="center">
-  🚀 Web Developer | 🌐 Tech Explorer | 💡 Problem Solver
+  🚀 Web Developer | 🌐 Agentic-AI | 💡 Problem Solver
 </h3>
 
 <!-- Typing animation -->
@@ -15,8 +15,8 @@
 
 ### 🧑‍💻 About Me
 
-- 👨‍🎓 CSE Student | 💻 Code Addict
-- 🌱 Currently learning **Cloud**, **DevOps**, and scalable **full-stack systems**
+- 👨‍🎓 MERN Developer | 💻 Code Addict
+- 🌱 Currently learning **System Design**, **DevOps**, and scalable **full-stack systems**
 - 🛠️ I build tools, dashboards, and solutions for real-world problems
 - 🧠 "Code smart. Debug smarter."
 
